@@ -1,7 +1,7 @@
-[![MasterHead](https://img.itch.zone/aW1hZ2UyL2phbS8yNzcwNzUvNDkyNDc2NC5naWY=/original/U92EmK.gif)]
+![MasterHead](https://img.itch.zone/aW1hZ2UyL2phbS8yNzcwNzUvNDkyNDc2NC5naWY=/original/U92EmK.gif)
 <h1 align="center">Hi 👋, I'm Valeriy Kim</h1>
 <h3 align="center">Student school-21</h3>
-img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEZBWmNhSGpHOVBMaVhGV2lRWldxOTVpWF9qZ3xBQ3Jtc0trall4OElVdnJkOWp6WEJNUVo4RmRRT29ZVENmOHNrcE55UEJ6QV83SG05TG5QME5CTHhEWGdmcHV2YlZsUzkxMkM3bUVFOHJWTjU5d09mcW9YaFExWXBvRExKY3pXdGladG1MRFhtckhwVDN5NWpqQQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE"
+img align="right" alt="Coding" width="400"src(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terrielu&label=Profile%20views&color=0e75b6&style=flat" alt="terrielu" /> </p>
 
