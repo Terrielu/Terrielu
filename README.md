@@ -1,8 +1,6 @@
 ![MasterHead](https://img.itch.zone/aW1hZ2UyL2phbS8yNzcwNzUvNDkyNDc2NC5naWY=/original/U92EmK.gif)
 <h1 align="center">Hi 👋, I'm Valeriy Kim</h1>
 <h3 align="center">Student school-21</h3>
-[img align="right" alt="Coding" width="400"src(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"](https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw08J2wPuUQv5qRuqC7ruQM_&ust=1727043090173000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCtl4GH1YgDFQAAAAAdAAAAABAE)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terrielu&label=Profile%20views&color=0e75b6&style=flat" alt="terrielu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terrielu" alt="terrielu" /></a> </p>
