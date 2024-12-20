@@ -1,22 +1,92 @@
-![MasterHead](https://img.itch.zone/aW1hZ2UyL2phbS8yNzcwNzUvNDkyNDc2NC5naWY=/original/U92EmK.gif)
-<h1 align="center">Hi 👋, I'm Valeriy Kim</h1>
-<h3 align="center">Student school-21</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=terrielu&label=Profile%20views&color=0e75b6&style=flat" alt="terrielu" /> </p>
+<div align="center">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/valeriy-kim-07549431a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@Eldor_Kenjabayev_WepDeve-ii2rk">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://t.me/lera_kim0211">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/ width:'200px'>
+    <a/>
+</div>
+ <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=EldorKenjabayev&style=flat-square&color=blue" alt=""/>
+   </div>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  <div align="left">  
+  
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terrielu" alt="terrielu" /></a> </p>
+### :woman_technologist: About Me : <br/>
+  I am studying on DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan. <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/valeriy-kim-07549431a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[valeriy kim](https://uz.linkedin.com/in/valeriy-kim-07549431a?trk=people-guest_people_search-card)" height="30" width="40" /></a>
-<a href="https://instagram.com/lerakim_02.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lerakim_02.11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lordlliwforgive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lordlliwforgive" height="30" width="40" /></a>
-</p>
+- :telescope: I have completed the Wepro IT school in the Frontend development specialization.  <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+- :seedling: Learning Linux, Windows, Python,  C. <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terrielu&show_icons=true&locale=en&layout=compact" alt="terrielu" /></p>
+- :zap: In my free time I solve problems on Leencode and watch anime. <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terrielu&show_icons=true&locale=en" alt="terrielu" /></p>
+    <div/>
+  <div/>
+    
+    ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terrielu&" alt="terrielu" /></p>
+### :hammer_and_wrench: Languages and Tools :
+    
+<div>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
+</div>    
+---
+
+
+<div align="left" width="50%">
+<h3>
+  <summary>
+    📈  &nbsp; My GitHub Stats
+  </summary> 
+  
+</h3>
+  <br>
+
+  <!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=EldorKenjabayev&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="EldorKenjabayev github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldorKenjabayev&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
+</div>
+
+</div>
+
+
+
+  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=EldorKenjabayev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Eldor Kenjabayev" /></div>
+
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EldorKenjabayev}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
+<img width="100%" src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" />
+
