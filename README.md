@@ -30,7 +30,7 @@
 ### :woman_technologist: About Me : <br/>
   I am studying on DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan. <br/>
 
-- :telescope: I have completed the Wepro IT school in the Frontend development specialization.  <br/>
+- :telescope: I have completed intensive in school 21.  <br/>
 
 - :seedling: Learning Linux, Windows, Python,  C. <br/>
 
