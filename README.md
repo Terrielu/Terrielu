@@ -73,14 +73,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
 
-
-
-
-  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=EldorKenjabayev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Eldor Kenjabayev" /></div>
-
-
-
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EldorKenjabayev}/count.svg" /></p> 
