@@ -38,14 +38,14 @@
 ---
 
 ### :woman_technologist: About Me : <br/>
-  I am studying on DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan. <br/>
 
-- :telescope: I have completed intensive in school 21.  <br/>
+I'm a motivated DevOps engineer focused on building reliable infrastructure and improving automation. 
+Over the past year, I've been diving deep into tools, practices, and real-world challenges of modern operations.
+Every day I work on enhancing my skills — from provisioning and monitoring to CI/CD and container orchestration.
 
-- :seedling: Learning Linux, Windows, Python,  C. <br/>
-
-- :zap: In my free time I solve problems on Leencode and watch anime. <br/>
-
+I'm currently looking for a junior DevOps position where I can grow as part of an engineering team and contribute to building stable, scalable systems.
+Today, I'm confident working with Docker, Linux, and CI/CD pipelines, and I'm actively improving my knowledge of cloud platforms, infrastructure as code, and monitoring solutions.
+Take a look below to see the projects I've worked on and how far I've come.
     <div/>
   <div/>
     
